@@ -77,3 +77,13 @@
 [22:22:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: eljospt[/127.219.65.140:53631] logged in with entity id 1131 at (-436.5, 68.0, 17.5)
 [22:22:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt joined the game
 [22:26:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped eljospt
+[22:32:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: eljospt lost connection: Timed out
+[22:32:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt left the game
+[22:38:17] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[22:38:17] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[22:38:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:38:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: eljospt[/127.219.65.140:44553] logged in with entity id 6417 at (-451.32895117063873, 71.0, 48.2128347438692)
+[22:38:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt joined the game
+[22:38:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [eljospt: Set own game mode to Survival Mode]
+[22:38:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [eljospt: Set own game mode to Creative Mode]
+[22:40:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: eljospt moved too quickly! -8.978022735699824,0.0,-4.664050757769417
