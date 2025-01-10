@@ -93,3 +93,13 @@
 [22:48:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [eljospt: Set own game mode to Survival Mode]
 [22:48:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: eljospt moved too quickly! 0.0,-11.558953062305562,0.0
 [22:48:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt fell from a high place
+[22:52:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [eljospt: Teleported eljospt to -943.5, 100.0, -3215.5]
+[22:52:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: eljospt moved too quickly! 0.0,-10.6184033305682,0.0
+[22:52:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt fell from a high place
+[22:52:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [eljospt: Set own game mode to Creative Mode]
+[22:53:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [eljospt: Teleported eljospt to -943.5, 100.0, -3215.5]
+[22:54:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [eljospt: Teleported eljospt to -4271.5, 100.0, -2199.5]
+[22:55:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: eljospt moved too quickly! -0.10644397076339374,-11.573924902726901,-0.058272892691547895
+[22:55:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [Sweet dreams]
+[22:56:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: eljospt lost connection: Disconnected
+[22:56:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt left the game
