@@ -1820,3 +1820,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [04:34:37] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to eljospt
 [04:35:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [eljospt: Set own game mode to Survival Mode]
 [04:35:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [eljospt: Set own game mode to Creative Mode]
+[05:20:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: eljospt lost connection: Disconnected
+[05:20:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt left the game
