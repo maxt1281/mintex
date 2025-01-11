@@ -1764,3 +1764,6 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [03:35:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [03:39:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [Best Friends Forever]
 [03:39:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[03:42:14] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[03:43:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [Hot Stuff]
+[03:43:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt

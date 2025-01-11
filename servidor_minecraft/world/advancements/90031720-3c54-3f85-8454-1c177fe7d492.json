@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-11 03:43:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-11 03:21:50 +0000"
@@ -590,6 +596,12 @@
   "giacomos_fishing_net:unlock_net_recipe": {
     "criteria": {
       "has_the_recipe": "2025-01-11 03:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-11 03:42:14 +0000"
     },
     "done": true
   },
