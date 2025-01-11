@@ -1813,3 +1813,10 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [04:28:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [04:29:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [04:29:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:33:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [A Seedy Place]
+[04:33:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[04:34:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt tried to swim in lava
+[04:34:31] [Server thread/INFO] [tombstone]: eljospt has successfully been saved
+[04:34:37] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to eljospt
+[04:35:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [eljospt: Set own game mode to Survival Mode]
+[04:35:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [eljospt: Set own game mode to Creative Mode]
