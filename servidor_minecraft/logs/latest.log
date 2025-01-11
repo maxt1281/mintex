@@ -1803,3 +1803,13 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [04:14:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
 [04:19:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [Ashes 'n Bones]
 [04:19:44] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[04:21:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [Knowledge raises the soul]
+[04:21:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[04:26:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt suffocated in a wall
+[04:26:20] [Server thread/INFO] [tombstone]: The last known grave of eljospt is at location [name:Last Grave, x:-4240, y:53, z:-2255] in the dimension 0
+[04:26:20] [Server thread/INFO] [tombstone]: eljospt has successfully been saved
+[04:26:21] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to eljospt
+[04:28:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:28:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:29:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:29:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity

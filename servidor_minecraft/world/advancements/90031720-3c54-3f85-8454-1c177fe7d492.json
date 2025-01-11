@@ -651,6 +651,7 @@
     "criteria": {
       "skeleton": "2025-01-11 03:55:05 +0000",
       "zombie": "2025-01-11 04:00:19 +0000",
+      "spider": "2025-01-11 04:27:49 +0000",
       "creeper": "2025-01-11 04:13:41 +0000"
     },
     "done": false
@@ -1938,6 +1939,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_the_recipe": "2025-01-11 03:21:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-11 04:21:41 +0000"
     },
     "done": true
   },
