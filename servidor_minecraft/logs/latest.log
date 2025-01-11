@@ -1767,3 +1767,19 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [03:42:14] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
 [03:43:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [Hot Stuff]
 [03:43:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[03:51:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [eljospt: Set own game mode to Survival Mode]
+[03:52:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[03:52:37] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerWorkbench
+[03:52:37] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[03:52:37] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[03:52:37] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[03:52:37] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[03:52:37] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[03:52:37] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[03:52:37] [Server thread/INFO] [Quark ASM]: Patch result: true
+[03:52:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [Stone Age]
+[03:52:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[03:53:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [Getting an Upgrade]
+[03:53:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[03:55:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [Monster Hunter]
+[03:55:05] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
