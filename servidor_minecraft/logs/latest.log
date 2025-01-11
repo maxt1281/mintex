@@ -1783,3 +1783,23 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [03:53:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
 [03:55:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [Monster Hunter]
 [03:55:05] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[04:13:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt was killed by Wizard using magic
+[04:13:56] [Server thread/INFO] [tombstone]: The last known grave of eljospt is at location [name:Last Grave, x:-4261, y:61, z:-2260] in the dimension 0
+[04:13:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [Your First Grave]
+[04:13:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[04:13:56] [Server thread/INFO] [tombstone]: eljospt has successfully been saved
+[04:13:58] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to eljospt
+[04:14:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [Knowledge of Death]
+[04:14:14] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[04:14:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has reached the goal [Here They Come]
+[04:14:14] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[04:14:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [Righteousness]
+[04:14:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[04:14:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [A Curious Crystal...]
+[04:14:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[04:14:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[04:14:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[04:14:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [A Strange Grave's Dust]
+[04:14:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[04:19:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [Ashes 'n Bones]
+[04:19:44] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
