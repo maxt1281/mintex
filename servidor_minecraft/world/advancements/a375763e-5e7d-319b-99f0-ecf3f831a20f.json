@@ -2051,7 +2051,8 @@
   },
   "ebwizardry:all_artefacts": {
     "criteria": {
-      "ring_mind_control": "2025-01-12 03:43:36 +0000"
+      "ring_mind_control": "2025-01-12 03:43:36 +0000",
+      "amulet_resurrection": "2025-01-12 04:58:50 +0000"
     },
     "done": false
   },
