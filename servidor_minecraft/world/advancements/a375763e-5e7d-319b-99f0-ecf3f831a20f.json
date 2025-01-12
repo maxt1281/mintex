@@ -739,6 +739,12 @@
     },
     "done": true
   },
+  "ebwizardry:artefact": {
+    "criteria": {
+      "ring_mind_control": "2025-01-12 03:43:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
@@ -838,6 +844,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:crystal": {
+    "criteria": {
+      "criteria_0": "2025-01-12 03:43:36 +0000"
     },
     "done": true
   },
@@ -1069,6 +1081,12 @@
     },
     "done": true
   },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2025-01-12 03:43:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
@@ -1206,6 +1224,7 @@
       "forest_hills": "2025-01-12 02:26:25 +0000",
       "plains": "2025-01-12 02:10:08 +0000",
       "savanna": "2025-01-12 03:09:42 +0000",
+      "savanna_rock": "2025-01-12 03:30:12 +0000",
       "ocean": "2025-01-12 02:14:43 +0000",
       "extreme_hills": "2025-01-12 02:35:18 +0000",
       "roofed_forest": "2025-01-12 02:27:03 +0000",
@@ -1763,7 +1782,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-01-12 02:29:11 +0000",
-      "bread": "2025-01-12 02:53:34 +0000"
+      "bread": "2025-01-12 02:53:34 +0000",
+      "carrot": "2025-01-12 03:40:11 +0000"
     },
     "done": false
   },
@@ -2007,6 +2027,12 @@
     },
     "done": true
   },
+  "ebwizardry:all_artefacts": {
+    "criteria": {
+      "ring_mind_control": "2025-01-12 03:43:36 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
@@ -2094,6 +2120,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-01-12 03:27:03 +0000"
     },
     "done": true
   },
@@ -2322,6 +2354,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/elements": {
+    "criteria": {
+      "healing": "2025-01-12 03:43:36 +0000"
     },
     "done": true
   },
