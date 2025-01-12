@@ -1714,3 +1714,131 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [03:54:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [03:54:32] [Server thread/WARN] [FML]: Quark loaded a new chunk [-170, 122] in dimension 0 (overworld) while populating chunk [-171, 122], causing cascading worldgen lag.
 [03:54:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:00:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jackserx was slain by Wizard's Spider
+[04:00:19] [Server thread/INFO] [tombstone]: The last known grave of Jackserx is at location [name:Last Grave, x:-2758, y:205, z:1812] in the dimension 0
+[04:00:19] [Server thread/INFO] [tombstone]: Jackserx has successfully been saved
+[04:00:24] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Jackserx
+[04:00:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eljospt> te mato una invocacion?
+[04:00:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> na na na na
+[04:00:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> otra vez eza wea
+[04:00:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eljospt> wn ten cuidado por donde vas joder
+[04:00:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> un campo de fuerza
+[04:01:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eljospt> sino vas a morir todo el rato
+[04:01:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> habia encontrado un buen lugar pa mi caza
+[04:01:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eljospt> ven para aca
+[04:01:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> no wn
+[04:01:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eljospt> te doy equipo pa q te vayas mas tranqui
+[04:01:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> tengo mucha mierda
+[04:01:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> muucha
+[04:01:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> que noze que zean
+[04:01:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> pero ze ven magicaz
+[04:01:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eljospt> q cosas
+[04:02:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> nozr kbron
+[04:04:19] [Server thread/WARN] [FML]: Quark loaded a new chunk [-76, 34] in dimension 0 (overworld) while populating chunk [-76, 35], causing cascading worldgen lag.
+[04:04:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:19] [Server thread/WARN] [FML]: Quark loaded a new chunk [-77, 34] in dimension 0 (overworld) while populating chunk [-76, 35], causing cascading worldgen lag.
+[04:04:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:19] [Server thread/WARN] [FML]: Quark loaded a new chunk [-76, 33] in dimension 0 (overworld) while populating chunk [-76, 35], causing cascading worldgen lag.
+[04:04:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:19] [Server thread/WARN] [FML]: Quark loaded a new chunk [-77, 33] in dimension 0 (overworld) while populating chunk [-76, 35], causing cascading worldgen lag.
+[04:04:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-86, 34] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-86, 33] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-84, 34] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-85, 34] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-84, 33] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-85, 33] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-83, 32] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Quark loaded a new chunk [-84, 32] in dimension 0 (overworld) while populating chunk [-83, 32], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Quark loaded a new chunk [-84, 31] in dimension 0 (overworld) while populating chunk [-83, 32], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-82, 32] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-85, 32] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-86, 32] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-83, 34] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-83, 33] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-82, 34] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-82, 33] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-87, 32] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-85, 31] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-83, 31] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-82, 31] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-81, 34] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-86, 31] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-81, 31] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-81, 30] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-84, 30] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-85, 30] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-84, 29] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-87, 31] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-80, 31] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-82, 30] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-83, 30] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-87, 33] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-81, 33] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-81, 32] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-86, 30] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-80, 32] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:48] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-79, 32] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:49] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-84, 28] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:49] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-83, 29] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:04:49] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-83, 28] in dimension 0 (overworld) while populating chunk [-87, 38], causing cascading worldgen lag.
+[04:04:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:06:13] [Server thread/WARN] [FML]: Quark loaded a new chunk [-106, 52] in dimension 0 (overworld) while populating chunk [-105, 51], causing cascading worldgen lag.
+[04:06:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:06:13] [Server thread/WARN] [FML]: CustomNPCs loaded a new chunk [-106, 58] in dimension 0 (overworld) while populating chunk [-105, 58], causing cascading worldgen lag.
+[04:06:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jackserx was slain by Boar
+[04:06:30] [Server thread/INFO] [tombstone]: The last known grave of Jackserx is at location [name:Last Grave, x:-1540, y:69, z:1041] in the dimension 0
+[04:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jackserx has made the advancement [Porkchopped]
+[04:06:30] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jackserx
+[04:06:30] [Server thread/INFO] [tombstone]: Jackserx has successfully been saved
+[04:06:31] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Jackserx
+[04:06:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> nolo puedo creer
+[04:06:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eljospt> wn
+[04:06:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eljospt> wn wn
+[04:06:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> no me dejaba correr
+[04:07:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eljospt> solo aste una base luego despues consigues todo y asi
+[04:07:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eljospt> equipate{
+[04:07:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jackserx was slain by Zombie
+[04:07:36] [Server thread/INFO] [tombstone]: The last known grave of Jackserx is at location [name:Last Grave, x:-477, y:64, z:38] in the dimension 0
+[04:07:36] [Server thread/INFO] [tombstone]: Jackserx has successfully been saved
+[04:07:38] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Jackserx

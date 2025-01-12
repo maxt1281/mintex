@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:boar_killed_player": {
+    "criteria": {
+      "boar_kill": "2025-01-12 04:06:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
