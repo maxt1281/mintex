@@ -1995,3 +1995,8 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [04:27:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> dale wn
 [04:27:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> duermeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 [04:27:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> ctmre
+[04:28:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eljospt> porq xd
+[04:29:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> tengo 2 cora
+[04:30:42] [Server thread/WARN] [FML]: Quark loaded a new chunk [-187, 113] in dimension 0 (overworld) while populating chunk [-186, 113], causing cascading worldgen lag.
+[04:30:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:34:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eljospt> joder
