@@ -2209,3 +2209,24 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [06:15:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: eljospt moved too quickly! -6.103937553461037,-7.061696687825275,3.617303613698823
 [06:15:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> cerveza kulia de mierda
 [06:16:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: eljospt moved too quickly! 7.156030186567932,-7.0,0.9018190879958183
+[06:19:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [Back to childhood]
+[06:19:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[06:19:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[06:19:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[06:19:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt has made the advancement [Not even afraid of death]
+[06:19:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[06:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> hoy le pido a la luna
+[06:20:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> a miz zueñoz
+[06:20:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eljospt> q me alarge esta noche
+[06:20:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> perdon
+[06:20:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> que te quiten la ropa
+[06:21:18] [Server thread/INFO] [mca]: Villager death: Martin. Caused by: Coyote. UUID: c5f6c3da-2159-4cb4-bd98-37ecac16c036
+[06:21:28] [Server thread/INFO] [mca]: Villager death: Jean. Caused by: Coyote. UUID: 39d55a30-dacf-45b8-b271-6c097a8b1a75
+[06:21:32] [Server thread/INFO] [mca]: Villager death: Lynn. Caused by: Coyote. UUID: abeea4d2-0444-4559-971d-e9ed6121a4a5
+[06:21:35] [Server thread/INFO] [mca]: Villager death: Emery. Caused by: Coyote. UUID: e1a98bc1-8dd3-4b6d-a8a9-f8e5acab0178
+[06:22:35] [Server thread/INFO] [mca]: Villager death: Zelda. Caused by: Coyote. UUID: eb0519db-a57c-47e2-b674-ae05ed05d91e
+[06:26:18] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:27:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:27:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:28:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:29:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> erez como una maripoza

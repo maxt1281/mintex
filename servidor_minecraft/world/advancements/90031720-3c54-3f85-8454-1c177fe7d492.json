@@ -587,6 +587,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_voodoo_poppet": {
+    "criteria": {
+      "has_ingredient": "2025-01-12 06:19:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-11 03:21:50 +0000"
@@ -959,6 +965,12 @@
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_the_recipe": "2025-01-11 03:21:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-01-12 06:19:48 +0000"
     },
     "done": true
   },
@@ -2144,6 +2156,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-01-12 06:19:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_the_recipe": "2025-01-11 03:21:50 +0000"
@@ -2435,6 +2453,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_the_recipe": "2025-01-11 03:21:50 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/elements": {
+    "criteria": {
+      "necromancy": "2025-01-12 06:19:48 +0000"
     },
     "done": true
   },
