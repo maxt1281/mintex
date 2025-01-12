@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "ebwizardry:find_library_ruins": {
+    "criteria": {
+      "surface": "2025-01-12 02:59:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
@@ -2517,6 +2523,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-01-12 03:01:02 +0000"
     },
     "done": true
   },
