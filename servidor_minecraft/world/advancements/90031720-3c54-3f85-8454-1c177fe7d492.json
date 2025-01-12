@@ -1820,6 +1820,7 @@
       "cooked_beef": "2025-01-11 22:12:16 +0000",
       "porkchop": "2025-01-12 01:59:20 +0000",
       "potato": "2025-01-11 21:49:20 +0000",
+      "bread": "2025-01-12 02:37:22 +0000",
       "carrot": "2025-01-11 21:49:35 +0000"
     },
     "done": false
@@ -2565,6 +2566,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2025-01-11 03:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-12 02:31:52 +0000"
     },
     "done": true
   },

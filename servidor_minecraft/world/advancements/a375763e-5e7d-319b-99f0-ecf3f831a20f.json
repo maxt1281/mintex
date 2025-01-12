@@ -599,6 +599,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/arcane_workbench": {
+    "criteria": {
+      "criteria_0": "2025-01-12 02:30:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
@@ -716,6 +722,12 @@
   "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:anger_wizard": {
+    "criteria": {
+      "criteria_0": "2025-01-12 02:30:43 +0000"
     },
     "done": true
   },
@@ -1129,11 +1141,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2025-01-12 02:26:20 +0000",
       "birch_forest": "2025-01-12 02:15:59 +0000",
       "deep_ocean": "2025-01-12 02:14:03 +0000",
       "beaches": "2025-01-12 02:08:55 +0000",
+      "extreme_hills_with_trees": "2025-01-12 02:35:51 +0000",
+      "forest_hills": "2025-01-12 02:26:25 +0000",
       "plains": "2025-01-12 02:10:08 +0000",
       "ocean": "2025-01-12 02:14:43 +0000",
+      "extreme_hills": "2025-01-12 02:35:18 +0000",
+      "roofed_forest": "2025-01-12 02:27:03 +0000",
       "river": "2025-01-12 02:15:39 +0000"
     },
     "done": false
@@ -1285,6 +1302,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/crystal_flowers": {
+    "criteria": {
+      "criteria_0": "2025-01-12 02:34:39 +0000"
     },
     "done": true
   },
@@ -1677,6 +1700,12 @@
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-01-12 02:29:11 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -2080,6 +2109,12 @@
     },
     "done": true
   },
+  "ebwizardry:wizard_tower": {
+    "criteria": {
+      "criteria_0": "2025-01-12 02:27:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
@@ -2089,6 +2124,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-12 02:30:16 +0000"
     },
     "done": true
   },
