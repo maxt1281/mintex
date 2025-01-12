@@ -553,3 +553,4 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [01:34:36] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for eljospt
 [01:34:36] [Server thread/INFO] [ebwizardry]: Synchronising config settings for eljospt
 [01:34:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for eljospt
+[01:37:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
