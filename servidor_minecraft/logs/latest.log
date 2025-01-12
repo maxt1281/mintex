@@ -2230,3 +2230,4 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [06:27:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [06:28:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [06:29:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> erez como una maripoza
+[06:30:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> hay maripoza de amor
