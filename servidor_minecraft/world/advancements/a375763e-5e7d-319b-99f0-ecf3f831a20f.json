@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-12 03:25:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
@@ -617,6 +623,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:animal_head_first": {
+    "criteria": {
+      "head4": "2025-01-12 03:18:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
@@ -1003,6 +1015,12 @@
     },
     "done": true
   },
+  "ebwizardry:defeat_evil_wizard": {
+    "criteria": {
+      "criteria_0": "2025-01-12 03:25:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
@@ -1184,12 +1202,15 @@
       "deep_ocean": "2025-01-12 02:14:03 +0000",
       "beaches": "2025-01-12 02:08:55 +0000",
       "extreme_hills_with_trees": "2025-01-12 02:35:51 +0000",
+      "desert_hills": "2025-01-12 03:14:26 +0000",
       "forest_hills": "2025-01-12 02:26:25 +0000",
       "plains": "2025-01-12 02:10:08 +0000",
+      "savanna": "2025-01-12 03:09:42 +0000",
       "ocean": "2025-01-12 02:14:43 +0000",
       "extreme_hills": "2025-01-12 02:35:18 +0000",
       "roofed_forest": "2025-01-12 02:27:03 +0000",
-      "river": "2025-01-12 02:15:39 +0000"
+      "river": "2025-01-12 02:15:39 +0000",
+      "desert": "2025-01-12 03:13:20 +0000"
     },
     "done": false
   },
@@ -1752,6 +1773,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-01-12 03:25:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
@@ -1823,6 +1850,12 @@
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
     },
     "done": true
+  },
+  "betteranimalsplus:animal_head_variants": {
+    "criteria": {
+      "head4": "2025-01-12 03:18:38 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
@@ -2106,6 +2139,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:animal_head_all": {
+    "criteria": {
+      "head4": "2025-01-12 03:18:38 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
@@ -2115,6 +2154,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-12 03:25:46 +0000"
     },
     "done": true
   },
@@ -2382,6 +2427,12 @@
     },
     "done": true
   },
+  "ebwizardry:visit_shrine": {
+    "criteria": {
+      "criteria_0": "2025-01-12 03:23:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
@@ -2481,6 +2532,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_the_recipe": "2025-01-12 02:08:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-12 03:25:46 +0000"
     },
     "done": true
   },

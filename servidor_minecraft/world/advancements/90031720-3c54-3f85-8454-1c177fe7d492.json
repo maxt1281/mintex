@@ -752,6 +752,12 @@
     },
     "done": true
   },
+  "ebwizardry:artefact": {
+    "criteria": {
+      "amulet_fire_protection": "2025-01-12 03:17:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-01-11 03:21:50 +0000"
@@ -2070,6 +2076,12 @@
       "has_the_recipe": "2025-01-11 03:21:50 +0000"
     },
     "done": true
+  },
+  "ebwizardry:all_artefacts": {
+    "criteria": {
+      "amulet_fire_protection": "2025-01-12 03:17:48 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
