@@ -987,3 +987,31 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [02:45:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> noze donde eztaz kbron de mierda
 [02:46:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eljospt> -2500 -1800
 [02:46:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> no voy palla
+[02:49:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jackserx has made the advancement [Monster Hunter]
+[02:49:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jackserx
+[02:50:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:50:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:52:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jackserx
+[02:52:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jackserx has made the advancement [A Strange Grave's Dust]
+[02:52:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jackserx
+[02:52:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:53:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jackserx has made the advancement [Isn't It Iron Pick]
+[02:53:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Jackserx
+[02:53:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eljospt> tuto
+[02:54:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> ja
+[02:54:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jackserx> no
+[02:55:27] [Server thread/WARN] [FML]: Medieval craft loaded a new chunk [-147, -97] in dimension 0 (overworld) while populating chunk [-147, -98], causing cascading worldgen lag.
+[02:55:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:55:27] [Server thread/WARN] [FML]: Medieval craft loaded a new chunk [-147, -96] in dimension 0 (overworld) while populating chunk [-147, -98], causing cascading worldgen lag.
+[02:55:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:55:27] [Server thread/WARN] [FML]: Medieval craft loaded a new chunk [-147, -95] in dimension 0 (overworld) while populating chunk [-147, -98], causing cascading worldgen lag.
+[02:55:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:55:30] [Server thread/WARN] [FML]: Quark loaded a new chunk [-146, -94] in dimension 0 (overworld) while populating chunk [-146, -95], causing cascading worldgen lag.
+[02:55:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:55:34] [Server thread/WARN] [FML]: Quark loaded a new chunk [-143, -104] in dimension 0 (overworld) while populating chunk [-144, -105], causing cascading worldgen lag.
+[02:55:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:55:43] [Server thread/WARN] [FML]: Quark loaded a new chunk [-152, -90] in dimension 0 (overworld) while populating chunk [-151, -90], causing cascading worldgen lag.
+[02:55:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:55:43] [Server thread/WARN] [FML]: Quark loaded a new chunk [-153, -90] in dimension 0 (overworld) while populating chunk [-151, -90], causing cascading worldgen lag.
+[02:55:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:56:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
