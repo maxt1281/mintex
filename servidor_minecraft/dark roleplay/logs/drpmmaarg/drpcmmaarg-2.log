@@ -1,43 +1,43 @@
-[17:57:14][INFO][net.dark_roleplay.core_modules.maarg.api.materials.Material:214] Sat Jan 11 17:57:14 UTC 2025
-[17:57:14][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: spruce
-|- Type: wood
-|- Items: 3
-|   |- 1xtile.leaves@1
-|   |- 1xtile.log@1
-|   |- 1xtile.wood@1
-
-[17:57:14][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: jungle
+[21:09:02][INFO][net.dark_roleplay.core_modules.maarg.api.materials.Material:214] Sat Jan 11 21:09:02 UTC 2025
+[21:09:02][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: jungle
 |- Type: wood
 |- Items: 3
 |   |- 1xtile.leaves@3
 |   |- 1xtile.log@3
 |   |- 1xtile.wood@3
 
-[17:57:14][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: dark_oak
+[21:09:02][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: dark_oak
 |- Type: wood
 |- Items: 3
 |   |- 1xtile.leaves@1
 |   |- 1xtile.log@1
 |   |- 1xtile.wood@5
 
-[17:57:14][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: birch
+[21:09:02][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: spruce
+|- Type: wood
+|- Items: 3
+|   |- 1xtile.leaves@1
+|   |- 1xtile.log@1
+|   |- 1xtile.wood@1
+
+[21:09:02][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: birch
 |- Type: wood
 |- Items: 3
 |   |- 1xtile.leaves@2
 |   |- 1xtile.log@2
 |   |- 1xtile.wood@2
 
-[17:57:14][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: acacia
-|- Type: wood
-|- Items: 3
-|   |- 1xtile.leaves@0
-|   |- 1xtile.log@0
-|   |- 1xtile.wood@4
-
-[17:57:14][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: oak
+[21:09:02][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: oak
 |- Type: wood
 |- Items: 3
 |   |- 1xtile.leaves@0
 |   |- 1xtile.log@0
 |   |- 1xtile.wood@0
+
+[21:09:02][INFO][net.dark_roleplay.core_modules.maarg.DRPCMMaARG:71] Material: acacia
+|- Type: wood
+|- Items: 3
+|   |- 1xtile.leaves@0
+|   |- 1xtile.log@0
+|   |- 1xtile.wood@4
 
