@@ -4278,3 +4278,17 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [23:35:46] [Server thread/INFO] [tombstone]: The last known grave of eljospt is at location [name:Last Grave, x:-2242, y:63, z:-464] in the dimension 0
 [23:35:46] [Server thread/INFO] [tombstone]: eljospt has successfully been saved
 [23:35:48] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to eljospt
+[23:36:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [eljospt: Teleported eljospt to -2241.5, 64.0, -463.5]
+[23:36:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:38:46] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerWorkbench
+[23:38:46] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[23:38:46] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[23:38:46] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[23:38:46] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[23:38:46] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[23:38:46] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[23:38:46] [Server thread/INFO] [Quark ASM]: Patch result: true
+[23:43:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:43:35] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:44:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:45:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
