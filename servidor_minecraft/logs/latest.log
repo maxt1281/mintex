@@ -16,3 +16,5 @@
 [00:08:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [00:08:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [00:08:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:11:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: eljospt lost connection: Disconnected
+[00:11:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eljospt left the game
